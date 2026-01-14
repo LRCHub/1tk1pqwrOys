@@ -1,56 +1,112 @@
 {
   "version": 1,
-  "base_track": "廻廻奇譚",
+  "base_track": "Kaikai Kitan",
   "base_artist": "Eve",
-  "createdAt": "2025-12-06T05:31:13.361464Z",
+  "createdAt": "2026-01-14T02:41:50.413596Z",
   "candidates": [
     {
       "id": "lrclib_1",
       "source": "lrclib",
-      "title": "廻廻奇譚",
-      "artist": "Roselia",
-      "has_synced": false,
-      "path": "select/01_廻廻奇譚_Roselia.txt"
+      "title": "Kaikai Kitan",
+      "artist": "Eve",
+      "has_synced": true,
+      "path": "select/01_Kaikai_Kitan_Eve.lrc"
     },
     {
       "id": "lrclib_2",
       "source": "lrclib",
-      "title": "廻廻奇譚 - Cover",
-      "artist": "Roselia",
-      "has_synced": false,
-      "path": "select/02_廻廻奇譚_-_Cover_Roselia.txt"
+      "title": "Kaikai Kitan",
+      "artist": "Eve",
+      "has_synced": true,
+      "path": "select/02_Kaikai_Kitan_Eve.lrc"
     },
     {
       "id": "lrclib_3",
       "source": "lrclib",
-      "title": "廻廻奇譚",
-      "artist": "MY FIRST STORY",
+      "title": "Kaikai Kitan",
+      "artist": "Eve",
       "has_synced": true,
-      "path": "select/03_廻廻奇譚_MY_FIRST_STORY.lrc"
+      "path": "select/03_Kaikai_Kitan_Eve.lrc"
     },
     {
       "id": "lrclib_4",
       "source": "lrclib",
-      "title": "廻廻奇譚 『TVアニメ「呪術廻戦」』",
-      "artist": "ShiroNeko",
-      "has_synced": true,
-      "path": "select/04_廻廻奇譚_『TVアニメ「呪術廻戦」』_ShiroNeko.lrc"
+      "title": "Kaikai Kitan (From \"Jujutsu Kaisen\")",
+      "artist": "Rainych",
+      "has_synced": false,
+      "path": "select/04_Kaikai_Kitan_(From__Jujutsu_Kaisen_)_Rainych.txt"
     },
     {
       "id": "lrclib_5",
       "source": "lrclib",
-      "title": "廻廻奇譚",
+      "title": "Kaikai Kitan",
       "artist": "Eve",
       "has_synced": true,
-      "path": "select/05_廻廻奇譚_Eve.lrc"
+      "path": "select/05_Kaikai_Kitan_Eve.lrc"
     },
     {
       "id": "lrclib_6",
       "source": "lrclib",
-      "title": "廻廻奇譚 - Kaikaikitan",
-      "artist": "My First Story",
+      "title": "Kaikai Kitan",
+      "artist": "Will Stetson",
       "has_synced": true,
-      "path": "select/06_廻廻奇譚_-_Kaikaikitan_My_First_Story.lrc"
+      "path": "select/06_Kaikai_Kitan_Will_Stetson.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Jujutsu Kaisen Opening (Kaikai Kitan)",
+      "artist": "Rifti Beats",
+      "has_synced": false,
+      "path": "select/07_Jujutsu_Kaisen_Opening_(Kaikai_Kitan)_Rifti_Beats.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Kaikai Kitan (from \"Jujutsu Kaisen\")",
+      "artist": "AmaLee",
+      "has_synced": true,
+      "path": "select/08_Kaikai_Kitan_(from__Jujutsu_Kaisen_)_AmaLee.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Kaikai Kitan (from \"Jujutsu Kaisen\")",
+      "artist": "AmaLee",
+      "has_synced": false,
+      "path": "select/09_Kaikai_Kitan_(from__Jujutsu_Kaisen_)_AmaLee.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Kaikai Kitan",
+      "artist": "Eve",
+      "has_synced": true,
+      "path": "select/10_Kaikai_Kitan_Eve.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Kaikai Kitan",
+      "artist": "Eve",
+      "has_synced": true,
+      "path": "select/11_Kaikai_Kitan_Eve.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Kaikai Kitan (Lofi Remix)",
+      "artist": "dj-Jo",
+      "has_synced": false,
+      "path": "select/12_Kaikai_Kitan_(Lofi_Remix)_dj-Jo.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Kaikai Kitan",
+      "artist": "Eve",
+      "has_synced": true,
+      "path": "select/13_Kaikai_Kitan_Eve.lrc"
     },
     {
       "id": "petitlyrics_1",
